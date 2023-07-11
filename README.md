@@ -1,10 +1,10 @@
-# API Livraria
+# API Livraria - Testes
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN)
 
 ## Resumo do projeto
 
-Projeto de API REST para prática de JavaScript.
+Projeto de testes em API REST para prática de JavaScript e TDD.
 Livraria com sistema de cadastro e manejo de livros, autores e editoras.
 
 
@@ -14,6 +14,8 @@ Livraria com sistema de cadastro e manejo de livros, autores e editoras.
 * `express` v4.18.1,
 * `knex` v2.1.0
 * `sqlite3` v5.0.8
+*`jest`: v28.1.2
+*`supertest`: v6.2.4
 
 
 ## Instalação
